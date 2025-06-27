@@ -3,7 +3,7 @@
 Objective- Write a comprehensive research report on common network security threats such as DoS attacks, Man-in-the-Middle (MITM) attacks, and spoofing.
 
 1) DoS Attack
- A Denial of Service(DoS) attack is a malicious attempt to disrupt the normal functioning of a targeted server,service or a network by overwhelming it with a flood of internet traffic.These attacks aim to render the system unavailable to its intended users,causing downtime,performance degradation,or complete shutdown.The primary goal of a DoS attack is to deny access to legitimate users.
+A Denial of Service(DoS) attack is a malicious effort to bring down the normal operation of an intended server,service or a network by overloading it with an avalanche of internet traffic.These kinds of attacks are meant to make the system unavailable to its intended users,causing it to be down,slow or shut down completely.The main intention of a DoS attack is to deny access to valid users.
 
 Working of DoS attack
 1) The attacker sends a massive number of requests or data packets to a target system.
@@ -26,9 +26,9 @@ Mitigation Strategies
 
 
 2) Man-In-The-Middle(MITM) Attack
-A MITM Attack is a type of cyber attack where an attacker secretly intercepts and ppssibly alters the communication between two parties who believe they are directly communicating with each other.
-            Imagine two people communicating through letters,and a third person intercepts,reads,and sometimes changes those letter before delivering them.This is exactly what a MITM
-            attack does in the digital world.
+A MITM Attack is a form of cyber attack in which an attacker surreptitiously intercepts and possibly manipulates the communication between two parties that think they are communicating directly with one another.
+Suppose two individuals are talking by mail,and a third individual intercepts,reads,andsometimes alters those mail before presenting them.This is precisely what a MITM
+attack does in the cyber world.
 
 Working of MITM Attack
 1) Interception- The attacker positions themselves between two legitimate parties to eavesdrop on their communication.This can be done through the following ways:-
@@ -57,7 +57,7 @@ Mitigation Strategies
 
 
 3) Phishing Attack
-A Phishing attack ia a social engineering technique where cyber criminals trick individuals into revealing sensitive information,such as login credentials,banking details, or personal identity data by pretending to be a trustworthy source.Phishing is typically carried out through fraudulent emails,messages,websites or calls that mimic legitimate institutions like banks,government agencies or popular online platforms.
+A Phishing attack is a social engineering method in which cyber thugs deceive people into disclosing confidential information,like login credentials,bank data or personal identity information by posing as a credible source.Phishing is generally conducted through fake emails,messages,web sites or calls mimicking legitimate institutions such as banks,government authorities or popular web sites.
 
 Working of Phishing Attack
 1) The attacker crafts a fake but convincing message imporsonating a trusted entity.
@@ -83,7 +83,7 @@ Mitigation Strategies
 
 
 4) Malware(viruses,worms,trojans,ransomware,spyware) Attack
-Malware is a broad category of software intentionally designed to damage,disrupt, or to gain unauthorized access to computer systems,networks, or data.It operates covertly and often causes significant harm without the user's knowledge.
+Malware is a general class of software purposefully designed to harm,disrupt, or to attain unauthorized access to computer systems,networks, or data.It runs in stealth mode and tends to inflict serious damage unbeknownst to the user.
 
 Working of Malware Attack
 1) Viruses: A virus attaches itself to a legitimate file or program and spreads when that file is executed.It often replicates and inserts itself into other files.
@@ -109,7 +109,7 @@ Mitigations Strategies
 
 
 5) SQL Injection
-SQL Injection is a type of cyber attack where an attacker injects malicious SQL code into input fields of a web application to manipulate the backend database.It exploits vulnerabilities in the application's input validation and query execution process.
+SQL Injection is a form of cyber attack where an attacker injects evil SQL code into input fields of a web application in order to control the backend database.It takes advantage of weaknesses in the application's input validation and query execution process.
 
 Working of SQL Injection
 1) Web applications that use SQL databases(e.g.,MySQL,Oracle,SQL Server).
